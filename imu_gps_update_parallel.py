@@ -82,6 +82,38 @@ def doIntersect(p1, q1, p2, q2):
     
     return False
 
+#Determine if the point p lies within the polygon
+def is_within_polygon(points:list, p:list) -> bool:
+    
+    n = len(points)
+    if n < 3: #there must be at least 3 points/vertices in a polygon
+        return False
+    
+    extreme = (INT_MAX, p[1]) #Create a point for line segment from p to infinite
+    
+    decrease = 0 #To calculate number of points where y-coordinate of the polygon is equal to y-coordinate of the point
+    count = i = 0
+    
+    while True:
+        next = (i + 1) % n
+        
+        if(points[i][1] == p[1]):
+            decrease += 1
+            
+        if (doIntersect(points[i], points[next], p, extreme)):
+            if orientation(points[i], p, points[next]) == 0:
+                return onSegment(points[i], p, points[next])
+                           
+            count += 1
+                           
+        i = next
+        
+        if (i == 0):
+            break
+        
+        count -= decrease
+        
+    return (count % 2 == 1)
 
 # Initializes GPS
 def initialize_gps():
@@ -188,13 +220,13 @@ def get_gps_location(gps_uart):
     #print("LatIN: " + str(latitude_avg) + " LongIN: " + str(longitude_avg))
     return latitude_avg, longitude_avg
 
-def imu_update(latAvg, longAvg, time_interval):
-    earth_radius = 6371000  # Earth's radius in meters
 
-    velocity_x = 0
-    velocity_y = 0
+def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y):
+    earth_radius = 6378137.0  # Earth's radius in meters
+
 
     imu_acceleration_x, imu_acceleration_y, imu_acceleration_z = sensor.linear_acceleration
+    
 
     #print("Accelerations")
     #print(f"Acceleration X: {imu_acceleration_x:.10f}   Acceleration Y: {imu_acceleration_y:.10f}")
@@ -210,7 +242,7 @@ def imu_update(latAvg, longAvg, time_interval):
 
     # Position Estimation
     latitude_change = ((velocity_x * time_interval) / earth_radius) * (180 / math.pi)
-    longitude_change = ((velocity_y * time_interval) / earth_radius) * (180 / math.pi) / math.cos(math.radians(latAvg * (math.pi / 180)))
+    longitude_change = ((velocity_y * time_interval) / earth_radius) * (180 / math.pi) / math.cos(math.radians(latAvg))
     
     #print("LAT AVG/LONGAVG")
     #print(f"Latitude: {latAvg:.10f}   Longitude: {longAvg:.10f}")
@@ -223,11 +255,14 @@ def imu_update(latAvg, longAvg, time_interval):
     newlongAvg = longAvg + longitude_change
 
     endTime = time.ticks_ms()
-    print("IMU UPDATE")
-    print(f"Latitude: {newlatAvg:.10f}   Longitude: {newlongAvg:.10f}")  
+    # print(f'''
+    #       IMU UPDATE\n
+    #       Latitude: {newlatAvg:.10f}   Longitude: {newlongAvg:.10f}\n
+    #       IMU DATA: {sensor.linear_acceleration}\n
+    #       ''')
     #print("IMU Refresh Rate: ", float(endTime - startTime))
 
-    return newlatAvg, newlongAvg
+    return newlatAvg, newlongAvg, velocity_x, velocity_y
 
 if __name__ == '__main__':
 
@@ -236,6 +271,8 @@ if __name__ == '__main__':
     i2c = busio.I2C(board.GP15, board.GP14, frequency=400000)       # Initializes I2C for the IMU
     sensor = adafruit_bno055.BNO055_I2C(i2c)                        # Initializes IMU
 
+    
+    
     last_val = 0xFFFF
 
     gps_uart = initialize_gps()                                     # Initializes GPS
@@ -267,6 +304,9 @@ if __name__ == '__main__':
     imu_time_interval = 0.1 # This value can be further optimized. See IMU BNO055 documentation for minimum refresh rate.
     
     #Initalize the GPS position and time trackers
+    velocity_x = 0
+    velocity_y = 0
+    
     latitude_avg,longitude_avg = 0,0
     latitude_avg,longitude_avg = get_gps_location(gps_uart)
     gps_start_time, imu_start_time = time.ticks_ms(),time.ticks_ms()
@@ -315,9 +355,12 @@ if __name__ == '__main__':
                     latitude_avg = (float(latitude_LL) + float(latitude_GA)) / latDivisor
                     longitude_avg = (float(longitude_LL) + float(longitude_GA)) / lonDivisor
                     
-                    print("GPS UPDATE")
-                    print(f"Latitude: {latitude_avg:.10f}   Longitude: {longitude_avg:.10f}")  
-                    print(f"GPS UPDATE TIME: {time.ticks_ms()-gps_start_time}")
+                    print(f'''
+                          GPS UPDATE\n
+                          Latitude: {latitude_avg:.10f}   Longitude: {longitude_avg:.10f}\n
+                          Raw Data: {str_array}\n
+                          GPS UPDATE TIME: {time.ticks_ms()-gps_start_time}\n
+                          ''')
                     latitude_LL = 0
                     longitude_LL = 0
                     latitude_GA = 0 
@@ -329,6 +372,11 @@ if __name__ == '__main__':
             except (ValueError, IndexError):
                 lcd_uart.write(b"Error No Signal                 ")  # For 16x2 LCD
                 print("valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire")
-        latitude_avg, longitude_avg = imu_update(latitude_avg, longitude_avg, imu_time_interval)
-        print(f"IMU UPDATE TIME: {time.ticks_ms()-imu_start_time}")
+        latitude_avg, longitude_avg, velocity_x, velocity_y = imu_update(latitude_avg, longitude_avg, (time.ticks_ms()-imu_start_time)/1_000, velocity_x, velocity_y)
+        print(f'''
+          IMU UPDATE\n
+          Latitude: {latitude_avg:.10f}   Longitude: {longitude_avg:.10f}\n
+          IMU DATA: {sensor.linear_acceleration}\n
+          IMU UPDATE TIME: {time.ticks_ms()-imu_start_time}\n
+          ''')
         imu_start_time = time.ticks_ms()

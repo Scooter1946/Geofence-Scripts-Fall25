@@ -1,0 +1,11 @@
+Raw Input: OUTER, 40.43097153920569, 86.91612098384796, 40.430922539229826, 86.91607672739921, 40.43082964334422, 86.91623765994011, 40.43086537254618, 86.91629264522491, INNER
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+IMU UPDATE
+Latitude: 40.4307030384   Longitude: 86.9158960000
+DATA: (-0.13, -0.01, -0.38)
+IMU UPDATE TIME: 42
+\x04Traceback (most recent call last):
+  File "<stdin>", line 370, in <module>
+  File "<stdin>", line 92, in is_within_polygon
+NameError: name 'INT_MAX' isn't defined

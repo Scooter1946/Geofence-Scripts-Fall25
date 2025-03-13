@@ -1,0 +1,7 @@
+Raw Input: OUTER, 40.43097153920569, 86.91612098384796, 40.430922539229826, 86.91607672739921, 40.43082964334422, 86.91623765994011, 40.43086537254618, 86.91629264522491, INNER
+\x04Traceback (most recent call last):
+  File "<stdin>", line 272, in <module>
+  File "/lib/adafruit_bno055.py", line 734, in __init__
+  File "/lib/adafruit_bus_device/i2c_device.py", line 63, in __init__
+  File "/lib/adafruit_bus_device/i2c_device.py", line 185, in __probe_for_device
+ValueError: No I2C device at address: 0x28

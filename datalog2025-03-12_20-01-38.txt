@@ -1,0 +1,5 @@
+Raw Input: OUTER, 40.43097153920569, 86.91612098384796, 40.430922539229826, 86.91607672739921, 40.43082964334422, 86.91623765994011, 40.43086537254618, 86.91629264522491, INNER
+\x04Traceback (most recent call last):
+  File "<stdin>", line 311, in <module>
+  File "<stdin>", line 183, in get_gps_location
+AttributeError: 'I2C' object has no attribute 'readline'

@@ -1,0 +1,8024 @@
+Raw Input: OUTER, 40.43097153920569, 86.91612098384796, 40.430922539229826, 86.91607672739921, 40.43082964334422, 86.91623765994011, 40.43086537254618, 86.91629264522491, INNER
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, 0.0, 0.0)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, 0.0, 0.0)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, 0.0, 0.0)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, 0.0, 0.0)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, 0.0, 0.0)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, 0.0, 0.0)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.34, -0.36, -0.38)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.38, -0.35, -0.37)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.35, -0.34, -0.42)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.35, -0.34, -0.42)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.32, -0.39, -0.35)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.33, -0.34, -0.33)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.01, -0.32)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.02, 0.0, -0.37)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.0, -0.38)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.03, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.03, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.02, -0.38)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.02, -0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, -0.01, -0.36)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.01, -0.32)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.02, 0.02, -0.28)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.02, 0.02, -0.28)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.02, 0.01, -0.34)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.0, -0.37)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.04, -0.34)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.01, -0.33)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.01, -0.33)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.01, -0.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, -0.01, -0.3)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.01, -0.35)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.0, -0.36)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.0, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.0, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.01, -0.33)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.0, -0.37)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.01, 0.01, -0.34)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.02, 0.01, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, -0.01, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, -0.01, -0.35)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.01, 0.0, -0.33)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.0, -0.32)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.01, -0.32)
+
+IMU UPDATE TIME: 26
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, -0.03, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.03, -0.02, -0.34)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.03, -0.02, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.02, -0.31)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.02, 0.0, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.02, 0.0, -0.38)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.02, -0.29)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.0, -0.36)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.0, -0.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.02, -0.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.02, -0.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.33)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.0, -0.36)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.0, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.01, -0.28)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.01, -0.33)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, -0.01, -0.4)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.01, 0.01, -0.3)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.01, 0.01, -0.3)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.01, -0.32)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, -0.01, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.01, 0.0, -0.38)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.01, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.01, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.0, -0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.0, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.03, 0.0, -0.35)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.02, 0.0, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.02, 0.0, -0.35)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.02, 0.0, -0.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.0, -0.38)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.01, -0.39)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.03, 0.02, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.01, 0.01, -0.42)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.01, 0.01, -0.42)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.0, 0.0, -0.38)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.06, 0.05, -0.35)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.06, 0.01, -0.3)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.06, 0.01, -0.3)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.02, 0.06, 0.06)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.02, 0.0, -0.37)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.3, 0.17, -0.33)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.7000000000000001, 0.37, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.7000000000000001, 0.37, -0.34)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.75, 0.32, -0.23)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.85, 0.25, -0.21)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.85, 0.25, -0.21)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.03, 0.28, -0.31)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.15, 0.33, -0.28)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.28, 0.38, -0.25)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.37, 0.38, -0.32)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.34, 0.4, -0.4)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.34, 0.4, -0.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.42, 0.29, -0.3)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.56, 0.27, -0.33)
+
+IMU UPDATE TIME: 9
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.85, 0.27, -0.35)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.76, 0.27, -0.22)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.8, 0.18, -0.35)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.8, 0.18, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.72, 0.19, -0.27)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.73, 0.14, -0.35)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-2.03, 0.0, -0.33)
+
+IMU UPDATE TIME: 36
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-2.05, -0.05, -0.3)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-2.09, -0.14, -0.26)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-2.01, -0.16, -0.23)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-2.01, -0.16, -0.23)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-2.06, -0.17, -0.26)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-1.84, -0.17, -0.26)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.68, -0.22, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.63, -0.22, -0.3)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.63, -0.22, -0.3)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.58, -0.29, -0.25)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.74, -0.3, -0.23)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.74, -0.3, -0.23)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.85, -0.36, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.73, -0.31, -0.26)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.87, -0.37, -0.2)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.95, -0.45, -0.32)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.95, -0.45, -0.32)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.86, -0.44, -0.28)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.49, -0.38, -0.35)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.22, -0.45, -0.3)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.24, -0.6, -0.31)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.24, -0.6, -0.31)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-1.14, -0.6800000000000001, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.8100000000000001, -0.5300000000000001, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.7199999999999999, -0.55, -0.26)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.5600000000000001, -0.5700000000000001, -0.19)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.5600000000000001, -0.5700000000000001, -0.19)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.48, -0.61, -0.8)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.5600000000000001, -0.62, -0.24)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.5700000000000001, -0.52, -0.34)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.4100000000000001, -0.32, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.4100000000000001, -0.32, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.54, -0.48, -0.3)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.1, -0.19, -0.25)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.04, -0.17, -0.27)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (-0.02, -0.16, -0.36)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.03, -0.22, -0.32)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.08, -0.16, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.08, -0.16, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.26, -0.06, -0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.28, -0.06, -0.28)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.32, 0.0, -0.3)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.32, 0.0, -0.3)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.27, 0.07000000000000001, -0.24)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.2, 0.03, -0.21)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.17, 0.12, -0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.31, 0.18, -0.32)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.31, 0.18, -0.32)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.67, 0.28, -0.37)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.69, 0.26, -0.32)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.73, 0.26, -0.39)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.07, 0.37, -0.29)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.07, 0.37, -0.29)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.84, 0.18, -0.24)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.74, 0.22, -0.47)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.73, 0.28, -0.44)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.19, 0.51, -0.09)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.19, 0.51, -0.09)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.31, 0.47, -0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.86, 0.4600000000000001, 0.0)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.22, 0.42, -0.4100000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.32, -0.16, 0.18)
+
+IMU UPDATE TIME: 34
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.06, 0.3, 0.52)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.94, 0.44, 0.76)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.81, 0.28, 0.09)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.81, 0.28, 0.09)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.49, 0.2, 0.08)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (0.54, 0.79, -1.36)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.07, 0.62, -0.09)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.07, 0.62, -0.09)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (2.61, 0.49, -1.53)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (3.66, 0.39, 0.04)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (2.79, 0.35, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (2.69, 0.5600000000000001, -0.6600000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (2.68, 0.28, 0.58)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (2.46, 0.6, -0.16)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (2.25, 0.55, 0.18)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (2.98, 0.36, -0.89)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (2.98, 0.36, -0.89)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (2.63, 0.38, 0.06)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (2.54, 0.39, 0.5700000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.71, 0.02, -0.09)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.71, 0.02, -0.09)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000001   Longitude: -0.0000000000
+
+IMU DATA: (1.79, 0.38, -0.86)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (1.93, 0.42, -1.12)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.16, 1.0, 1.73)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -1.29, -1.21)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.58, 0.09, -1.5)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (3.14, 0.51, 0.09)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (3.14, 0.51, 0.09)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.37, 0.03, 0.51)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.99, 0.28, -0.49)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.72, 0.69, -0.25)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.55, 0.39, -0.6)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.55, 0.39, -0.6)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.85, 0.22, -0.25)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.1, 0.4600000000000001, -0.52)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.31, 0.44, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.14, 0.25, -0.51)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.96, 0.24, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.71, 0.12, -0.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.45, 0.03, -0.32)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.45, 0.03, -0.32)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.41, -0.15, -0.26)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.58, -0.07000000000000001, -0.26)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.56, -0.13, -0.17)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.69, -0.22, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.69, -0.22, -0.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.6, -0.23, -0.35)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.4, -0.33, -0.32)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.08, -0.21, -0.44)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.14, 0.11, -0.3)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.18, 0.0, -0.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.25, 0.0, -0.26)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.25, 0.0, -0.26)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.28, -0.01, 0.0)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.17, 0.0, -0.45)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.17, 0.0, -0.45)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.16, 0.07000000000000001, -0.4100000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.2, 0.19, -0.35)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.19, -0.05, -0.16)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.22, 0.03, -0.14)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.21, 0.08, -0.16)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.29, 0.0, -0.17)
+
+IMU UPDATE TIME: 35
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.48, 0.12, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.8100000000000001, 0.15, -0.36)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.8100000000000001, 0.15, -0.36)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.7199999999999999, 0.02, -0.35)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.64, -0.16, -0.44)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.74, 0.0, -0.67)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.8200000000000001, 0.13, -0.63)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.79, 0.15, -0.7800000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.6600000000000001, 0.14, -0.74)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.28, 0.2, -0.58)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.28, 0.2, -0.58)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, 0.25, -0.23)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.32, 0.28, -0.2)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.14, 0.29, 0.2)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.71, 0.28, 0.11)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.61, 0.3, -0.09)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.61, 0.3, -0.09)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.58, 0.33, -0.14)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.6, 0.35, -0.14)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.77, 0.26, -0.5300000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.19, 0.28, -0.8200000000000001)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.21, 0.2, -0.8800000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.21, 0.2, -0.8800000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.19, 0.28, -0.89)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.02, 0.16, -0.8)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.91, 0.18, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.91, 0.18, -0.31)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.11, 0.16, -0.4600000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.96, 0.12, -0.05)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.66, 0.1, 0.0)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.94, 0.27, 0.29)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.25, 0.3, -0.08)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.09, 0.39, 0.14)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.09, 0.39, 0.14)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.13, 1.24, 1.26)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (3.05, 0.94, -1.32)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (3.31, 0.37, -1.49)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (2.63, 0.85, -0.23)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.63, 0.85, -0.23)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.39, 0.16, -1.59)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.14, 0.35, -0.7199999999999999)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.18, 0.6, -0.5300000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.7, 0.85, 0.4100000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (3.3, 0.6800000000000001, -0.12)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.8, 0.5600000000000001, 0.05)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.52, 0.5600000000000001, -0.02)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.52, 0.5600000000000001, -0.02)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.09, 0.7199999999999999, 0.25)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.27, 0.86, -0.37)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.9, 0.5899999999999999, -0.94)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.85, 0.62, -1.04)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.33, 0.61, -0.42)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.33, 0.61, -0.42)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.86, 0.43, -0.45)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.63, 0.48, -0.5600000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.85, 0.61, 0.06)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.04, 0.64, 0.08)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.16, 0.6, -0.24)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.16, 0.6, -0.24)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.02, 0.54, -0.23)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.28, 0.34, -0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.23, 0.15, -0.54)
+
+IMU UPDATE TIME: 34
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.13, 0.19, -0.38)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (2.13, 0.19, -0.38)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.99, 0.25, -0.34)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.8, 0.15, -0.4100000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.56, 0.25, -0.38)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.43, 0.03, -0.47)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.32, 0.0, -0.7199999999999999)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.32, 0.0, -0.7199999999999999)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.05, 0.01, -0.38)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (1.16, -0.01, -0.23)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (0.8100000000000001, -0.29, -0.09)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (0.61, -0.28, -0.07000000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (0.61, -0.28, -0.07000000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.31, 0.01)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-0.16, -0.36, 0.03)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-0.08, -0.2, -0.09)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-0.09, -0.32, -0.17)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-0.47, -0.26, -0.37)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-0.47, -0.26, -0.37)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-0.8, -0.34, -0.58)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-1.0, -0.37, -0.71)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-1.33, -0.22, -0.7000000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-1.33, -0.22, -0.7000000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-1.75, -0.45, -0.63)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-2.45, -0.44, -0.4600000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-2.77, -0.54, -0.47)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-3.12, -0.5600000000000001, -0.06)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-2.95, -0.5300000000000001, 0.17)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-2.95, -0.5300000000000001, 0.17)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-4.05, -0.29, 0.32)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-5.42, -1.41, 0.11)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-3.59, 0.03, -0.4)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-6.86, -1.32, 0.79)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-5.07, -0.76, -0.95)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-3.95, -1.06, -0.1)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-3.95, -1.06, -0.1)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-7.54, -0.21, -0.17)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-4.99, 0.22, -1.81)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-4.43, 1.97, -0.8699999999999999)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-5.48, -0.8200000000000001, -1.6)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-4.66, -1.31, -1.71)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-4.66, -1.31, -1.71)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: 0.0000000000
+
+IMU DATA: (-3.88, -0.91, -0.29)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-2.89, -1.19, 0.6600000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.96, -0.7800000000000001, -0.22)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-2.09, -1.19, -0.76)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.94, -0.95, -0.45)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.85, -0.96, -0.18)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.46, -0.8200000000000001, -0.24)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.46, -0.8200000000000001, -0.24)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.57, -0.8800000000000001, -0.35)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.76, -0.7199999999999999, -0.19)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.9, -1.03, -0.5300000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.63, -0.99, -0.4100000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.63, -0.99, -0.4100000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.26, -0.91, -0.15)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.29, -0.89, -0.42)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.39, -0.04, -0.75)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.39, -0.04, -0.75)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.08, 0.32, -0.6600000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, 0.11, 0.02)
+
+IMU UPDATE TIME: 37
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.02, 0.14, 0.24)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.18, 0.15, 0.74)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.52, 0.14, -0.69)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.52, 0.14, -0.69)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.37, 0.21, -0.42)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.06, 0.21, -0.2)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.05, 0.14, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.15, 0.18, -0.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.32, 0.31, -0.43)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.32, 0.31, -0.43)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.44, 0.42, -0.36)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.61, 0.5300000000000001, -0.36)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.52, 0.5700000000000001, -0.18)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.49, 0.63, -0.13)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.52, 0.7000000000000001, -0.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.52, 0.7000000000000001, -0.4)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.28, 0.95, -0.38)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.5, 0.99, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.6600000000000001, 1.25, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.8200000000000001, 1.49, -0.23)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.8200000000000001, 1.49, -0.23)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.27, 1.69, -0.34)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.39, 1.93, -0.42)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.25, 2.42, 0.0)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.35, 2.47, -0.3)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.35, 2.47, -0.3)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.79, 2.72, -0.55)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.8, 2.91, -0.62)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.73, 2.86, -0.51)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.87, 3.02, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.95, 2.98, -0.26)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.95, 2.98, -0.26)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.91, 3.09, -0.14)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.76, 3.09, -0.23)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.72, 2.98, -0.48)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.9, 2.93, -0.45)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.9, 2.93, -0.45)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.98, 2.75, -0.36)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.03, 3.3, -0.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-2.21, 3.24, -0.73)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-2.09, 3.55, -0.18)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-2.09, 3.55, -0.18)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.42, 3.45, 0.16)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.5, 3.56, -0.16)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.45, 3.55, -0.45)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.36, 3.65, -0.63)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.36, 3.65, -0.63)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.33, 3.7, -0.69)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.26, 3.59, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.19, 3.5, -0.17)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-0.86, 3.55, -0.24)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.0, 2.96, 0.02)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.0, 2.96, 0.02)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-0.47, 2.46, -0.6)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-0.09, 2.53, -0.8200000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-0.04, 2.49, -0.6600000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-0.04, 2.49, -0.6600000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.1, 1.85, 0.29)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-0.02, 1.72, 0.0)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-0.16, 1.59, -0.52)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.09, 1.45, -0.7800000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.47, 0.38, -0.33)
+
+IMU UPDATE TIME: 28
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.5300000000000001, 0.03, -0.4100000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.08, -0.25, -0.11)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.24, -0.62, -0.39)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.24, -0.62, -0.39)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.48, -0.49, -0.26)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.64, -0.07000000000000001, -0.5)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.32, 0.17, -0.23)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.01, 0.0, -0.6)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.9699999999999999, -0.49, -0.42)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.33, -0.7800000000000001, -0.22)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.33, -0.7800000000000001, -0.22)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (2.64, -1.53, -0.32)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (2.42, -1.76, -1.0)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.82, -1.99, -0.49)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.31, -2.19, -0.39)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.15, -2.9, 0.5700000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-1.15, -2.9, 0.5700000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (-0.09, -2.38, -0.4600000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.5700000000000001, -1.57, -0.5600000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.9300000000000001, -1.13, -0.5899999999999999)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.31, -1.6, -0.36)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.73, -1.49, -0.6)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.71, -1.62, -1.16)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.71, -1.62, -1.16)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.51, -1.51, 0.0)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.85, -1.28, 0.29)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.67, -1.33, -0.4600000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.68, -1.19, -0.9800000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.42, -1.46, 0.07000000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.42, -1.46, 0.07000000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.75, -1.51, 0.22)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.25, -1.82, -0.61)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.91, -2.03, -0.79)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.71, -2.11, 0.05)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.71, -2.11, 0.05)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.39, -2.26, -0.25)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.01, -2.22, -0.64)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (0.8100000000000001, -1.96, -0.24)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.05, -2.11, -0.37)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.05, -2.11, -0.37)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.28, -2.13, -0.5700000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.78, -2.2, -0.23)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (2.09, -2.43, -0.44)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (2.38, -2.29, -0.51)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (2.41, -2.17, -0.47)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (2.26, -2.12, -0.43)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (2.26, -2.12, -0.43)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.45, -2.43, -0.45)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000001
+
+IMU DATA: (1.21, -2.66, -0.45)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (1.09, -2.61, -0.32)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.91, -2.7, -0.14)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.91, -2.7, -0.14)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.9200000000000001, -2.62, -0.37)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (0.9800000000000001, -2.46, -0.64)
+
+IMU UPDATE TIME: 9
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (1.19, -2.39, -0.38)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (1.57, -2.76, -0.25)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (1.84, -3.11, -0.55)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (1.97, -3.27, -0.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (1.97, -3.27, -0.4)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (1.98, -3.12, -0.21)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (2.07, -2.39, -0.39)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.14, -0.28, -0.32)
+
+IMU UPDATE TIME: 34
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.06, 0.01, -0.07000000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.06, 0.01, -0.07000000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.08, -0.13, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.21, -0.04, -0.24)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.2, -0.11, -0.13)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.15, -0.02, -0.37)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.15, -0.02, -0.37)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.23, -0.07000000000000001, -0.29)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.15, -0.05, -0.21)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.17, -0.03, -0.19)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.17, -0.03, -0.19)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.18, -0.04, -0.14)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.19, 0.05, -0.16)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.21, -0.04, -0.44)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.21, -0.04, -0.44)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.25, -0.01, -0.43)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.16, -0.05, -0.45)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.14, -0.04, -0.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.2, 0.0, -0.33)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.2, 0.0, -0.33)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.24, -0.04, -0.52)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.23, -0.02, -0.64)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.23, -0.02, -0.64)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.2, 0.0, -0.58)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.12, -0.11, -0.5899999999999999)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.01, -0.37, -0.7000000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.0, -0.52, -0.5700000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.0, -0.52, -0.5700000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.09, -0.43, -0.58)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.17, -0.25, -0.54)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.16, -0.04, -0.54)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.05, -0.16, -0.13)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.05, -0.16, -0.13)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.2, -0.22, -0.01)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.03, -0.18, 0.04)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.09, -0.42, -0.1)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.09, -0.42, -0.1)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.03, -0.5, -0.24)
+
+IMU UPDATE TIME: 9
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.01, -0.7199999999999999, -0.35)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.0, -0.8699999999999999, -0.39)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.13, -1.27, -0.5600000000000001)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.11, -1.56, -0.73)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.28, -1.54, -0.6)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.28, -1.54, -0.6)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.35, -1.51, -0.36)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.6600000000000001, -1.52, -0.42)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.9300000000000001, -1.39, -0.32)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.95, -1.57, -0.3)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.95, -1.57, -0.3)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.25, -1.67, -0.22)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.26, -1.92, 0.01)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.33, -2.09, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.14, -2.24, -0.18)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.05, -2.39, 0.07000000000000001)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.37, -2.62, -0.15)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.37, -2.62, -0.15)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.59, -2.7, -0.12)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.71, -2.73, -0.24)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.88, -2.69, -0.2)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.09, -2.66, -0.4600000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.96, -2.53, -0.51)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.77, -2.95, -0.31)
+
+IMU UPDATE TIME: 34
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.7, -3.17, -0.22)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.8, -4.31, -0.32)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.02, -2.63, -0.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.82, -1.71, -0.28)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.82, -1.71, -0.28)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.84, -1.64, -0.39)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.97, -1.27, -0.3)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.0, -0.79, -0.49)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-1.36, -0.67, -0.44)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-1.36, -0.67, -0.44)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-2.18, -0.21, -0.28)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-2.19, -0.14, -0.09)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.44, 0.34, 0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.57, 0.04, 0.47)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.57, 0.04, 0.47)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.82, 0.02, 0.47)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.5, -0.15, -0.2)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.71, -0.77, -1.17)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.47, -0.91, -0.75)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.72, -0.9699999999999999, -1.13)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.03, -0.91, -1.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.21, -0.9800000000000001, -1.34)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.21, -0.9800000000000001, -1.34)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.08, -0.61, -0.07000000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.29, -0.52, 0.07000000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.15, -0.6, 0.86)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.15, -0.6, 0.86)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.62, -0.61, 0.48)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.1, -0.51, 0.18)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.45, -0.6, 0.51)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.88, -0.6600000000000001, 0.27)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.97, -0.99, -0.38)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.97, -0.99, -0.38)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.99, -0.8699999999999999, -0.27)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (1.99, -1.44, -0.5)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.83, -0.94, -1.04)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.55, -0.8200000000000001, -0.77)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.36, -0.33, -0.9699999999999999)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (2.36, -0.33, -0.9699999999999999)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (0.67, -0.52, -1.94)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-0.5899999999999999, -0.34, -1.67)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-1.28, -0.14, -1.29)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-1.55, 0.23, -1.12)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-2.77, 1.77, 1.7)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000001   Longitude: -0.0000000001
+
+IMU DATA: (-2.77, 1.77, 1.7)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.7, 1.88, 1.15)
+
+IMU UPDATE TIME: 9
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-3.04, 1.99, 0.27)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-3.53, 2.51, 1.44)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-3.09, 2.57, 0.0)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-3.29, 2.14, -0.28)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-3.29, 2.14, -0.28)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.73, 2.12, -0.9699999999999999)
+
+IMU UPDATE TIME: 9
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-3.12, 2.1, 0.19)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.26, 2.03, -1.48)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.15, 1.59, -1.85)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.15, 1.59, -1.85)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.17, 1.96, -1.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.1, 2.01, -1.12)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.13, 2.5, -0.61)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.15, 2.45, -0.21)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.24, 2.97, 0.96)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-3.17, 3.41, 0.28)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.67, 2.91, -0.2)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-3.11, 3.15, -0.52)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-3.11, 3.15, -0.52)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-3.49, 3.33, -0.5700000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-7.25, 5.62, -0.12)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-2.09, 3.81, -0.5700000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: 0.0000000000   Longitude: -0.0000000001
+
+IMU DATA: (-1.3, 4.05, -0.19)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.67, 4.12, -0.23)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.6600000000000001, 3.81, -0.02)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: -0.0000000000
+
+IMU DATA: (-0.6600000000000001, 3.81, -0.02)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.6, 4.08, 0.38)
+
+IMU UPDATE TIME: 9
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.36, 3.63, 0.01)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.22, 3.1, -0.49)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.42, 2.48, -0.4)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.22, 1.74, -0.42)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.22, 1.74, -0.42)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.13, 1.47, -0.58)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.23, 1.47, -0.37)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.41, 0.7800000000000001, -0.6)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.34, 0.5, -0.94)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.52, 0.34, -0.13)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.52, 0.34, -0.13)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-1.34, 1.3, 0.42)
+
+IMU UPDATE TIME: 9
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.44, 0.16, 0.55)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.06, -0.06, -1.25)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.37, 0.05, -0.9300000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.37, 0.05, -0.9300000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, 0.2, 0.16)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.37, -0.38, -0.19)
+
+IMU UPDATE TIME: 9
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.47, -0.4, -1.15)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.17, -0.3, -1.2)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.11, 0.65, -0.5600000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.11, 0.65, -0.5600000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.11, -0.29, 0.4)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.04, 0.01, -0.6600000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.07000000000000001, -0.14, -0.9300000000000001)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.36, -0.19, -0.6800000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.36, -0.19, -0.6800000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.11, 0.3, -0.07000000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.11, 0.1, -0.02)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.08, -0.25, -0.28)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.11, -0.5300000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.11, -0.5300000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.03, -0.25)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.1, 0.0, -0.22)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.04, -0.02, -0.39)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.05, -0.07000000000000001, -0.35)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.07000000000000001, -0.09, -0.32)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.07000000000000001, -0.09, -0.32)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.09, 0.04, -0.11)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.08, 0.07000000000000001, -0.2)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.44, -0.8699999999999999, -0.7199999999999999)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.28, 0.36, 3.07)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.32, 0.8200000000000001, -0.5899999999999999)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.32, 0.8200000000000001, -0.5899999999999999)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.4, 0.27, -1.17)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.35, -0.25, -0.43)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.05, -0.43, -0.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.1, 0.2, -0.03)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.1, 0.2, -0.03)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.1, -0.13)
+
+IMU UPDATE TIME: 36
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.06, 0.07000000000000001, -0.51)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.08, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.06, -0.08, -0.26)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.06, -0.08, -0.26)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.04, -0.38)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.05, 0.03, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, 0.0, -0.21)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.04, -0.3)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.04, -0.3)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.05, -0.32)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.04, -0.29)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.03, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.1, -0.44)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.1, -0.44)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.1, -0.22)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.04, -0.06, -0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.06, -0.09, -0.39)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.04, -0.1, -0.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.02, -0.38)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.05, -0.01, -0.4600000000000001)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.05, -0.01, -0.4600000000000001)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.04, -0.02, -0.3)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.02, -0.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.02, -0.48)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.02, -0.48)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.01, -0.37)
+
+IMU UPDATE TIME: 9
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.01, -0.19)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.05, -0.44)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.07000000000000001, -0.36)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.07000000000000001, -0.25)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.07000000000000001, -0.25)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.03, -0.33)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.03, -0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.02, -0.26)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.04, -0.03, -0.34)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.04, -0.03, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.04, -0.4)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.04, 0.0, -0.29)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.05, -0.35)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.06, -0.37)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.06, -0.37)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.05, -0.33)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.06, -0.36)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.02, -0.34)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.3)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.3)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.04, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.07000000000000001, -0.33)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.04, -0.29)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.01, -0.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.02, -0.32)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.02, -0.32)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, 0.0, -0.24)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, 0.0, -0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.03, -0.48)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.2)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.2)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.02, -0.34)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.06, -0.47)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.06, -0.15)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.03, -0.31)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, 0.0, -0.26)
+
+IMU UPDATE TIME: 37
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.04, -0.03, -0.4600000000000001)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.05, -0.42)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.04, -0.03, -0.21)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.05, -0.42)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.05, -0.42)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.03, -0.39)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.02, -0.25)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.05, -0.44)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.06, -0.36)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.05, -0.24)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.05, -0.24)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.03, -0.28)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.03, -0.38)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.02, -0.3)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.04, -0.29)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.04, -0.36)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.04, -0.36)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.04, -0.35)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.05, -0.36)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.06, -0.32)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.04, -0.31)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.39)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.39)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.04, -0.31)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.01, -0.22)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.02, -0.43)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.33)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.33)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.01, -0.23)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, 0.0, -0.33)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.03, -0.38)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, 0.0, -0.2)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, 0.0, -0.2)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.31)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.05, -0.03, -0.47)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.04, -0.16)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.02, -0.31)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.02, -0.31)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.04, -0.48)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.05, -0.2)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.05, -0.21)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.05, -0.48)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.05, -0.48)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.05, -0.45)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.03, -0.24)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.03, -0.4100000000000001)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, 0.0, -0.4600000000000001)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.05, 0.0, -0.28)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.05, 0.0, -0.28)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.01, -0.42)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.05, -0.01, -0.43)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.04, -0.01, -0.31)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.02, -0.29)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.05, -0.35)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.03, -0.28)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.03, -0.31)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.03, -0.31)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.06, -0.37)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.05, -0.32)
+
+IMU UPDATE TIME: 4
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.04, -0.31)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.04, -0.32)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.03, -0.34)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.04, -0.29)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.02, -0.43)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.03, -0.36)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.02, -0.25)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.03, -0.31)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.03, -0.31)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.05, -0.34)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, -0.03, -0.2)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.04, -0.31)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.03, -0.04, -0.38)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.03, -0.24)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.02, -0.03, -0.24)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, 0.0, -0.28)
+
+IMU UPDATE TIME: 8
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.02, -0.42)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.02, -0.22)
+
+IMU UPDATE TIME: 7
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (0.0, 0.0, -0.3)
+
+IMU UPDATE TIME: 5
+
+              
+
+IMU UPDATE
+
+Latitude: -0.0000000000   Longitude: 0.0000000000
+
+IMU DATA: (-0.01, -0.01, -0.42)
+
+IMU UPDATE TIME: 6
+
+              
+
+IMU UPDATE
+
