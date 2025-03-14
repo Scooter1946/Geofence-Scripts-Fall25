@@ -117,7 +117,10 @@ def is_within_polygon(points:list, p:list) -> bool:
 
 # Initializes GPS
 def initialize_gps():
-    return busio.UART(baudrate=9600, tx=board.GP12, rx=board.GP13, bits=8, stop=1, timeout=0, receiver_buffer_size=64)
+    uart = busio.UART(baudrate=9600, tx=board.GP12, rx=board.GP13)
+    print(uart)
+    return uart
+
 
 # Turns on the LCD
 def initialize_lcd(backlight_red, backlight_green, backlight_blue):
@@ -181,6 +184,7 @@ def get_gps_location(gps_uart):
             
         time.sleep(0.03)
         str_array = gps_uart.readline()
+        #print(str_array)
         
         if str_array is None:
             continue
@@ -254,7 +258,7 @@ def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y):
     newlatAvg = latAvg + latitude_change
     newlongAvg = longAvg + longitude_change
 
-    endTime = time.ticks_ms()
+    # endTime = time.ticks_ms()
     # print(f'''
     #       IMU UPDATE\n
     #       Latitude: {newlatAvg:.10f}   Longitude: {newlongAvg:.10f}\n

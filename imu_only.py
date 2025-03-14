@@ -43,11 +43,9 @@ def dataReceive():
 
 
 
-def imu_update(latAvg, longAvg, time_interval):
-    earth_radius = 6371000  # Earth's radius in meters
+def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y):
+    earth_radius = 6378137.0  # Earth's radius in meters
 
-    velocity_x = 0
-    velocity_y = 0
 
     imu_acceleration_x, imu_acceleration_y, imu_acceleration_z = sensor.linear_acceleration
     
@@ -61,15 +59,12 @@ def imu_update(latAvg, longAvg, time_interval):
     velocity_x += imu_acceleration_x * time_interval
     velocity_y += imu_acceleration_y * time_interval
 
-    #print("VELOCITIES")
-    #print(f"Velocity X: {velocity_x:.10f}   Velocity Y: {velocity_y:.10f}") 
+    # print("VELOCITIES")
+    # print(f"Velocity X: {velocity_x:.10f}   Velocity Y: {velocity_y:.10f}") 
 
     # Position Estimation
-    latitude_change = (velocity_x * time_interval)
-    longitude_change = (velocity_y * time_interval)
-    # latitude_change = ((velocity_x * time_interval) / earth_radius) * (180 / math.pi)
-    # longitude_change = ((velocity_y * time_interval) / earth_radius) * (180 / math.pi) / math.cos(latAvg * (math.pi / 180))
-    
+    latitude_change = ((velocity_x * time_interval) / earth_radius) * (180 / math.pi)
+    longitude_change = ((velocity_y * time_interval) / earth_radius) * (180 / math.pi) / math.cos(math.radians(latAvg))
     
     #print("LAT AVG/LONGAVG")
     #print(f"Latitude: {latAvg:.10f}   Longitude: {longAvg:.10f}")
@@ -81,6 +76,7 @@ def imu_update(latAvg, longAvg, time_interval):
     newlatAvg = latAvg + latitude_change
     newlongAvg = longAvg + longitude_change
 
+    # endTime = time.ticks_ms()
     # print(f'''
     #       IMU UPDATE\n
     #       Latitude: {newlatAvg:.10f}   Longitude: {newlongAvg:.10f}\n
@@ -88,7 +84,7 @@ def imu_update(latAvg, longAvg, time_interval):
     #       ''')
     #print("IMU Refresh Rate: ", float(endTime - startTime))
 
-    return newlatAvg, newlongAvg
+    return newlatAvg, newlongAvg, velocity_x, velocity_y
 
 
 if __name__ == '__main__':
@@ -98,15 +94,19 @@ if __name__ == '__main__':
     i2c = busio.I2C(board.GP15, board.GP14, frequency=400000)       # Initializes I2C for the IMU
     sensor = adafruit_bno055.BNO055_I2C(i2c)                        # Initializes IMU
     imu_start_time = time.ticks_ms()
+    velocity_x = 0
+    velocity_y = 0
     while True:
-        imu_end_time = time.time_ns()/1_000_000_000.0
-        latitude_avg, longitude_avg = imu_update(latitude_avg, longitude_avg, imu_end_time-imu_start_time)
-        imu_start_time = time.time_ns()/1_000_000_000.0
+        latitude_avg, longitude_avg, velocity_x, velocity_y = imu_update(latitude_avg, longitude_avg, (time.ticks_ms()-imu_start_time), velocity_x, velocity_y)
         print(f'''
-IMU UPDATE\n
-Latitude: {latitude_avg:.10f}   Longitude: {longitude_avg:.10f}\n
-IMU DATA: {sensor.linear_acceleration}\n
-IMU UPDATE TIME: {imu_end_time-imu_start_time}\n
-              ''')
+          IMU UPDATE\n
+          Latitude: {latitude_avg}\n
+          Longitude: {longitude_avg}\n
+          IMU DATA: {sensor.linear_acceleration}\n
+          Velocity X: {velocity_x}\n  
+          Velocity Y: {velocity_y}\n
+          IMU UPDATE TIME: {time.ticks_ms()-imu_start_time}\n
+          ''')
+        imu_start_time = time.ticks_ms()
         
 
