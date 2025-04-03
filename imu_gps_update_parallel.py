@@ -184,15 +184,16 @@ def get_gps_location(gps_uart):
             
         time.sleep(0.03)
         str_array = gps_uart.readline()
-        #print(str_array)
+        # print(str_array)
         
         if str_array is None:
             continue
         try:
+            
             str_array = str_array.decode("utf-8")       # Decodes GPS input
             time.sleep(0.03)
             str_array = str_array.split(",")
-            #print(str_array)                            # Prints GPS Output
+            # print(str_array)                            # Prints GPS Output
             
             if str_array[0] is '$GPGLL':
                 #print("in GPGLL")
@@ -372,7 +373,6 @@ if __name__ == '__main__':
                     latDivisor = 1
                     lonDivisor = 1
                     gps_start_time = time.ticks_ms()
-
             except (ValueError, IndexError):
                 lcd_uart.write(b"Error No Signal                 ")  # For 16x2 LCD
                 print("valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire")

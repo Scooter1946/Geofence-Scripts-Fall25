@@ -1,0 +1,756 @@
+Raw Input: OUTER, 40.43097153920569, 86.91612098384796, 40.430922539229826, 86.91607672739921, 40.43082964334422, 86.91623765994011, 40.43086537254618, 86.91629264522491, INNER
+<UART object at 2000cbe0>
+['$GPRMC']
+['', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r']
+['\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['\\x02']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMA', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$G\\x10VTG', '', '', '', '', '', '', '', '', 'N*#0\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '']
+['', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC']
+['', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*5']
+['3\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '']
+['', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '']
+['', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GP']
+['RMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*']
+['53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '']
+['', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', '']
+['V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$']
+['GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', '']
+['N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '']
+['', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC']
+['', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53']
+['\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '']
+['', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '']
+['', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GP']
+['RMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*5']
+['3\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '']
+['', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', '']
+['V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGSV', '1', '1', '01', '21', '', '', '28*71\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GP']
+['RMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*']
+['53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '']
+['', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', '']
+['V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$G']
+['PRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N']
+['*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '']
+['', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '']
+['', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r']
+['\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '']
+['', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '']
+['', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPR']
+['MC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGSV', '1', '1', '01', '30', '', '', '24*7D\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*5']
+['3\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '']
+['', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGSV', '4', '1', '15', '07', '', '', '39', '08', '', '', '40', '09', '', '', '40', '10', '', '', '40*71\\r\\n']
+['$GPGSV', '4', '2', '15', '11', '', '', '40', '12', '', '', '40', '13', '', '', '39', '15', '', '', '39*7E\\r\\n']
+['$GPGSV', '4', '3', '15', '17', '', '', '38', '19', '', '', '40', '20', '', '', '40', '21', '', '', '40*7A\\r\\n']
+['$GPGSV', '4', '4', '15', '22', '', '', '39', '25', '', '', '39', '27', '', '', '39*75\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '']
+['', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGSV', '1', '1', '01', '27', '', '', '25*7A\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V']
+['', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGSV', '1', '1', '02', '27', '', '', '20', '30', '', '', '19*77\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GP']
+['RMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53']
+['\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '']
+['', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V']
+['', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGSV', '1', '1', '01', '07', '', '', '28*75\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$G']
+['PRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*5']
+['3\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '']
+['', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', '']
+['V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$']
+['GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGSV', '1', '1', '01', '17', '', '', '28*74\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGSV', '1', '1', '01', '18', '', '', '29*7A\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N']
+['*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '']
+['', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGSV', '1', '1', '01', '22', '', '', '29*73\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V']
+['', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$']
+['GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGSV', '1', '1', '01', '24', '', '', '28*74\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N']
+['*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '']
+['', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '']
+['', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$']
+['GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r']
+['\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', '']
+['N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '']
+['', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPR']
+['MC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*']
+['53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '']
+['', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '']
+['', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$']
+['GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r']
+['\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', '']
+['N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '']
+['', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GP']
+['RMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*5']
+['3\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '']
+['', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GP']
+['RMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GP']
+['RMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*5']
+['3\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', '']
+['V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', '']
+['V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GP']
+['RMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N*53\\r\\n']
+['$GPVTG', '', '', '', '', '', '', '', '', 'N*30\\r\\n']
+['$GPGGA', '', '', '', '', '', '0', '00', '99.99', '', '', '', '', '', '*48\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPGSA', 'A', '1', '', '', '', '', '', '', '', '', '', '', '', '', '99.99', '99.99', '99.99*30\\r\\n']
+['$GPGLL', '', '', '', '', '', 'V', 'N*64\\r\\n']
+valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire
+['$GPRMC', '', 'V', '', '', '', '', '', '', '', '', '', 'N']
