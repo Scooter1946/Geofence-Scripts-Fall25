@@ -1,7 +1,7 @@
 import numpy as np
 lines = []
 
-filename = "datalog2025-03-14_13-21-00"
+filename = "datalog2025-04-17_11-20-15"
 
 with open(filename+".txt") as file:
     lines = file.readlines()
@@ -29,16 +29,18 @@ for line in lines:
         IMUUpdates.append(line[line.index(": ")+2:])
         csv += f"{line[line.index(": ")+2:-1]}\n"
         # count+=1
-    elif "GPS Refresh Rate: " in line:
+    elif "GPS UPDATE TIME: " in line:
         GPSUpdates.append(line[line.index(": ")+2:])
         # counts.append(count)
         # count = 0
     elif "Latitude:" in line:
-        lat.append(line[line.index(": ")+2:])
-        csv += f"{line[line.index(": ")+2:-1]}, "
-    elif "Longitude:" in line:
-        long.append(line[line.index(": ")+2:])
-        csv += f"{line[line.index(": ")+2:-1]}, "
+        ind = line.index("Latitude: ")+10
+        lat.append(line[ind:ind+13]+"\n")
+        csv += f"{line[ind:ind+13]}, "
+    if "Longitude:" in line:
+        ind = line.index("Longitude: ")+11
+        long.append(line[ind:ind+13]+"\n")
+        csv += f"{line[ind:ind+13]}, "
     elif "Velocity X:" in line:
         velX.append(line[line.index(": ")+2:])
         csv += f"{line[line.index(": ")+2:-1]}, "

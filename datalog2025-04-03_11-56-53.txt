@@ -1,0 +1,2548 @@
+   Velocity X: -0.07000000000000001
+  
+          Velocity Y: 1.03
+
+          IMU Orientation: (-2.6875, 3.5625, -10.5)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.784777380770515e-05
+
+          Longitude: 0.0002012226236427813
+
+          IMU DATA: (-0.11, -0.02, 0.18)
+
+          Velocity X: -0.07000000000000001
+  
+          Velocity Y: 1.03
+
+          IMU Orientation: (-2.6875, 3.5625, -10.5)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.784777380770515e-05
+
+          Longitude: 0.0002012226236427813
+
+          IMU DATA: (-0.01, -0.18, -0.2)
+
+          Velocity X: -0.07000000000000001
+  
+          Velocity Y: 1.03
+
+          IMU Orientation: (-2.6875, 3.5625, -10.5)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.784777380770515e-05
+
+          Longitude: 0.0002012226236427813
+
+          IMU DATA: (0.04, -0.38, -0.33)
+
+          Velocity X: -0.07000000000000001
+  
+          Velocity Y: 1.03
+
+          IMU Orientation: (-2.1875, 4.0, -9.6875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.784777380770515e-05
+
+          Longitude: 0.0002012226236427813
+
+          IMU DATA: (0.0, -0.34, -0.34)
+
+          Velocity X: -0.07000000000000001
+  
+          Velocity Y: 1.03
+
+          IMU Orientation: (-2.1875, 4.0, -9.6875)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.784777380770515e-05
+
+          Longitude: 0.0002012226236427813
+
+          IMU DATA: (0.04, -0.06, -0.28)
+
+          Velocity X: -0.07000000000000001
+  
+          Velocity Y: 1.03
+
+          IMU Orientation: (-2.1875, 4.0, -9.6875)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.784777380770515e-05
+
+          Longitude: 0.0002012226236427813
+
+          IMU DATA: (0.0, 0.05, -0.51)
+
+          Velocity X: -0.07000000000000001
+  
+          Velocity Y: 1.03
+
+          IMU Orientation: (-2.1875, 4.0, -9.6875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.784777380770515e-05
+
+          Longitude: 0.0002012226236427813
+
+          IMU DATA: (-0.06, 0.07000000000000001, -0.49)
+
+          Velocity X: -0.07000000000000001
+  
+          Velocity Y: 1.03
+
+          IMU Orientation: (-2.5625, 3.5625, -10.75)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.784777380770515e-05
+
+          Longitude: 0.0002012226236427813
+
+          IMU DATA: (-0.04, 0.19, -0.5300000000000001)
+
+          Velocity X: -0.07000000000000001
+  
+          Velocity Y: 1.03
+
+          IMU Orientation: (-2.5625, 3.5625, -10.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (0.03, 0.09, -0.39)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.5625, 3.5625, -10.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (-0.03, 0.01, -0.31)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.5625, 3.5625, -10.75)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (-0.03, 0.02, -0.31)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.1875, 4.25, -10.0625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (-0.02, 0.08, -0.3)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.1875, 4.25, -10.0625)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (-0.02, 0.1, -0.29)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.1875, 4.25, -10.0625)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (0.0, 0.13, -0.32)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.1875, 4.25, -10.0625)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (-0.04, 0.07000000000000001, -0.21)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.1875, 4.25, -10.0625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (-0.15, 0.13, 0.0)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.1875, 4.25, -10.0625)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (-0.02, -0.02, -0.35)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.1875, 4.25, -10.0625)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (0.04, -0.03, -0.5600000000000001)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.1875, 4.25, -10.0625)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (0.1, 0.0, -0.6600000000000001)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.0625, 4.0, -9.25)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (0.11, 0.06, -0.67)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.0625, 4.0, -9.25)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (0.02, 0.19, -0.35)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.0625, 4.0, -9.25)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (-0.11, 0.02, -0.14)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-2.0625, 4.0, -9.25)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.829693144976491e-05
+
+          Longitude: 0.0002123617331658647
+
+          IMU DATA: (-0.15, 0.04, -0.02)
+
+          Velocity X: -0.05
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-1.0, 4.1875, -10.75)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.955457284753224e-05
+
+          Longitude: 0.0002230516850468883
+
+          IMU DATA: (-0.09, -0.05, 0.0)
+
+          Velocity X: -0.14
+  
+          Velocity Y: 1.19
+
+          IMU Orientation: (-1.0, 4.1875, -10.75)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.955457284753224e-05
+
+          Longitude: 0.0002230516850468883
+
+          IMU DATA: (-0.02, -0.11, -0.24)
+
+          Velocity X: -0.14
+  
+          Velocity Y: 1.19
+
+          IMU Orientation: (-1.0, 4.1875, -10.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.955457284753224e-05
+
+          Longitude: 0.0002230516850468883
+
+          IMU DATA: (0.01, -0.11, -0.38)
+
+          Velocity X: -0.14
+  
+          Velocity Y: 1.19
+
+          IMU Orientation: (-1.0, 4.1875, -10.75)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.955457284753224e-05
+
+          Longitude: 0.0002230516850468883
+
+          IMU DATA: (0.04, 0.05, -0.35)
+
+          Velocity X: -0.14
+  
+          Velocity Y: 1.19
+
+          IMU Orientation: (-1.0, 3.75, -10.5)
+
+          IMU UPDATE TIME: 36
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.955457284753224e-05
+
+          Longitude: 0.0002230516850468883
+
+          IMU DATA: (-0.06, 0.06, -0.36)
+
+          Velocity X: -0.14
+  
+          Velocity Y: 1.19
+
+          IMU Orientation: (-1.0, 3.75, -10.5)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.955457284753224e-05
+
+          Longitude: 0.0002230516850468883
+
+          IMU DATA: (-0.02, 0.03, -0.4)
+
+          Velocity X: -0.14
+  
+          Velocity Y: 1.19
+
+          IMU Orientation: (-1.0, 3.6875, -10.875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.955457284753224e-05
+
+          Longitude: 0.0002230516850468883
+
+          IMU DATA: (0.0, -0.02, -0.4100000000000001)
+
+          Velocity X: -0.14
+  
+          Velocity Y: 1.19
+
+          IMU Orientation: (-1.0, 3.6875, -10.875)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.955457284753224e-05
+
+          Longitude: 0.0002230516850468883
+
+          IMU DATA: (0.02, 0.02, -0.28)
+
+          Velocity X: -0.14
+  
+          Velocity Y: 1.19
+
+          IMU Orientation: (-1.0, 3.6875, -10.875)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -2.955457284753224e-05
+
+          Longitude: 0.0002230516850468883
+
+          IMU DATA: (-0.03, -0.03, -0.15)
+
+          Velocity X: -0.14
+  
+          Velocity Y: 1.19
+
+          IMU Orientation: (-1.0, 3.6875, -10.875)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (0.01, -0.05, 0.0)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.0, 4.25, -11.25)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.01, 0.16, -0.5899999999999999)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.0, 4.25, -11.25)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.08, 0.06, -0.37)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.0, 4.25, -11.25)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.03, 0.07000000000000001, -0.21)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.0, 4.25, -11.25)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.06, 0.0, -0.27)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.75, 3.1875, -10.5)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.01, -0.02, -0.35)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+
+
+
+
+          
+
+
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.01, -0.01, -0.28)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-2.0625, 3.875, -10.875)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.05, -0.13, -0.39)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.375, 3.875, -10.0)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.17, -0.28, -0.22)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.375, 3.875, -10.0)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.21, -0.23, 0.21)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-0.6875, 3.875, -11.1875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.19, -0.2, 0.12)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-0.6875, 3.875, -11.1875)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.14, -0.1, -0.38)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-0.6875, 3.875, -11.1875)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.07000000000000001, -0.07000000000000001, -0.42)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-0.6875, 3.875, -11.1875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.05, -0.05, -0.4100000000000001)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.375, 3.875, -11.25)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.04, -0.03, -0.38)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.375, 3.875, -11.25)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.04, 0.06, -0.15)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.375, 3.875, -11.25)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.02, 0.23, -0.42)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.375, 3.875, -11.25)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.09, 0.2, -0.51)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.75, 4.5625, -10.75)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (0.01, 0.17, -0.33)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.75, 4.5625, -10.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (0.09, 0.15, 0.0)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.75, 4.5625, -10.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (0.2, 0.4600000000000001, -0.04)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-1.75, 4.5625, -10.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.072238271688762e-05
+
+          Longitude: 0.0002332924792858522
+
+          IMU DATA: (-0.11, 0.35, 0.07000000000000001)
+
+          Velocity X: -0.13
+  
+          Velocity Y: 1.14
+
+          IMU Orientation: (-0.875, 3.875, -10.75)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.242918175671471e-05
+
+          Longitude: 0.0002444315888089359
+
+          IMU DATA: (-0.06, 0.1, -0.01)
+
+          Velocity X: -0.19
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-0.875, 3.875, -10.75)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.242918175671471e-05
+
+          Longitude: 0.0002444315888089359
+
+          IMU DATA: (0.01, 0.08, -0.21)
+
+          Velocity X: -0.19
+  
+          Velocity Y: 1.24
+
+          IMU Orientation: (-0.875, 3.875, -10.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-0.04, 0.05, -0.45)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.875, 3.875, -10.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-0.01, 0.03, -0.5300000000000001)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.875, 4.875, -11.25)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (0.04, 0.06, -0.5700000000000001)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.875, 4.875, -11.25)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (0.15, -0.01, -0.29)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.875, 4.875, -11.25)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (0.16, -0.79, -0.16)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.875, 4.875, -11.25)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (0.6, -0.94, -0.18)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.6875, 4.6875, -10.1875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (0.69, -0.47, -0.08)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.6875, 4.6875, -10.1875)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (0.4600000000000001, -0.6800000000000001, 0.09)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.6875, 4.6875, -10.1875)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (0.15, -0.5600000000000001, 0.05)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.6875, 4.6875, -10.1875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (0.18, -0.49, -0.16)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.875, 5.0625, -9.875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (0.36, -0.5300000000000001, -0.44)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-0.875, 5.0625, -9.875)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (0.28, -0.7800000000000001, -0.36)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-1.0625, 5.6875, -12.0)
+
+          IMU UPDATE TIME: 29
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-0.06, -0.91, -0.27)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-1.0625, 5.6875, -12.0)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-0.36, -0.2, -0.02)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (-1.0625, 5.6875, -12.0)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-0.86, -0.33, 0.18)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-0.58, 0.38, -0.09)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (4.5625, 4.5625, -13.375)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-1.26, -0.24, 0.1)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (4.5625, 4.5625, -13.375)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-0.94, 0.19, -0.13)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (4.5625, 4.5625, -13.375)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-0.95, 0.08, -0.08)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (5.875, 6.5, -14.5625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-1.32, 0.26, -0.47)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (5.875, 6.5, -14.5625)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-1.73, -0.52, -0.38)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (5.875, 6.5, -14.5625)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -3.404614926812985e-05
+
+          Longitude: 0.0002562893505593155
+
+          IMU DATA: (-1.83, -0.5899999999999999, -0.49)
+
+          Velocity X: -0.18
+  
+          Velocity Y: 1.320000000000001
+
+          IMU Orientation: (5.875, 6.5, -14.5625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -5.264127564940393e-05
+
+          Longitude: 0.000263116546718625
+
+          IMU DATA: (-1.89, -0.5600000000000001, -0.96)
+
+          Velocity X: -2.07
+  
+          Velocity Y: 0.7600000000000005
+
+          IMU Orientation: (8.5625, 7.5, -16.25)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -5.264127564940393e-05
+
+          Longitude: 0.000263116546718625
+
+          IMU DATA: (-1.94, -0.47, -0.79)
+
+          Velocity X: -2.07
+  
+          Velocity Y: 0.7600000000000005
+
+          IMU Orientation: (8.5625, 7.5, -16.25)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -5.264127564940393e-05
+
+          Longitude: 0.000263116546718625
+
+          IMU DATA: (-1.48, 0.24, -0.85)
+
+          Velocity X: -2.07
+  
+          Velocity Y: 0.7600000000000005
+
+          IMU Orientation: (8.5625, 7.5, -16.25)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -5.264127564940393e-05
+
+          Longitude: 0.000263116546718625
+
+          IMU DATA: (-1.04, 0.5899999999999999, -0.84)
+
+          Velocity X: -2.07
+  
+          Velocity Y: 0.7600000000000005
+
+          IMU Orientation: (8.5625, 7.5, -16.25)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -5.264127564940393e-05
+
+          Longitude: 0.000263116546718625
+
+          IMU DATA: (-1.18, 0.4600000000000001, -0.76)
+
+          Velocity X: -2.07
+  
+          Velocity Y: 0.7600000000000005
+
+          IMU Orientation: (9.375, 7.0625, -16.25)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -5.264127564940393e-05
+
+          Longitude: 0.000263116546718625
+
+          IMU DATA: (-1.27, 0.2, -1.03)
+
+          Velocity X: -2.07
+  
+          Velocity Y: 0.7600000000000005
+
+          IMU Orientation: (9.375, 7.0625, -16.25)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -5.264127564940393e-05
+
+          Longitude: 0.000263116546718625
+
+          IMU DATA: (-2.15, -0.6600000000000001, -0.8300000000000001)
+
+          Velocity X: -2.07
+  
+          Velocity Y: 0.7600000000000005
+
+          IMU Orientation: (9.375, 7.0625, -16.25)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -5.264127564940393e-05
+
+          Longitude: 0.000263116546718625
+
+          IMU DATA: (-1.95, -0.61, -1.01)
+
+          Velocity X: -2.07
+  
+          Velocity Y: 0.7600000000000005
+
+          IMU Orientation: (9.375, 7.0625, -16.25)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -8.650776186070987e-05
+
+          Longitude: 0.0002692250906506403
+
+          IMU DATA: (-1.7, -0.08, -1.11)
+
+          Velocity X: -3.77
+  
+          Velocity Y: 0.6800000000000005
+
+          IMU Orientation: (11.1875, 7.75, -16.0625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -8.650776186070987e-05
+
+          Longitude: 0.0002692250906506403
+
+          IMU DATA: (-1.52, 0.28, -0.9200000000000001)
+
+          Velocity X: -3.77
+  
+          Velocity Y: 0.6800000000000005
+
+          IMU Orientation: (11.1875, 7.75, -16.0625)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -8.650776186070987e-05
+
+          Longitude: 0.0002692250906506403
+
+          IMU DATA: (-1.2, 0.63, -0.8300000000000001)
+
+          Velocity X: -3.77
+  
+          Velocity Y: 0.6800000000000005
+
+          IMU Orientation: (11.1875, 7.75, -16.0625)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -8.650776186070987e-05
+
+          Longitude: 0.0002692250906506403
+
+          IMU DATA: (-1.26, 0.62, -0.74)
+
+          Velocity X: -3.77
+  
+          Velocity Y: 0.6800000000000005
+
+          IMU Orientation: (11.1875, 7.75, -16.0625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -8.650776186070987e-05
+
+          Longitude: 0.0002692250906506403
+
+          IMU DATA: (-1.66, 0.14, -0.8)
+
+          Velocity X: -3.77
+  
+          Velocity Y: 0.6800000000000005
+
+          IMU Orientation: (13.5625, 6.75, -15.75)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -8.650776186070987e-05
+
+          Longitude: 0.0002692250906506403
+
+          IMU DATA: (-1.75, -0.04, -0.9200000000000001)
+
+          Velocity X: -3.77
+  
+          Velocity Y: 0.6800000000000005
+
+          IMU Orientation: (13.5625, 6.75, -15.75)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -8.650776186070987e-05
+
+          Longitude: 0.0002692250906506403
+
+          IMU DATA: (-1.44, 0.19, -1.17)
+
+          Velocity X: -3.77
+  
+          Velocity Y: 0.6800000000000005
+
+          IMU Orientation: (13.5625, 6.75, -15.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -8.650776186070987e-05
+
+          Longitude: 0.0002692250906506403
+
+          IMU DATA: (-1.05, 0.43, -1.61)
+
+          Velocity X: -3.77
+  
+          Velocity Y: 0.6800000000000005
+
+          IMU Orientation: (13.5625, 6.75, -15.75)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -8.650776186070987e-05
+
+          Longitude: 0.0002692250906506403
+
+          IMU DATA: (-0.99, 0.43, -1.78)
+
+          Velocity X: -3.77
+  
+          Velocity Y: 0.6800000000000005
+
+          IMU Orientation: (14.0625, 6.6875, -16.75)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -8.650776186070987e-05
+
+          Longitude: 0.0002692250906506403
+
+          IMU DATA: (-0.79, 0.51, -1.78)
+
+          Velocity X: -3.77
+  
+          Velocity Y: 0.6800000000000005
+
+          IMU Orientation: (14.0625, 6.6875, -16.75)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001260336343619689
+
+          Longitude: 0.0002802743686453231
+
+          IMU DATA: (-0.6800000000000001, 0.27, -1.76)
+
+          Velocity X: -4.4
+  
+          Velocity Y: 1.23
+
+          IMU Orientation: (14.0625, 6.6875, -16.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001260336343619689
+
+          Longitude: 0.0002802743686453231
+
+          IMU DATA: (-0.7000000000000001, -0.01, -1.76)
+
+          Velocity X: -4.4
+  
+          Velocity Y: 1.23
+
+          IMU Orientation: (14.0625, 6.6875, -16.75)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001260336343619689
+
+          Longitude: 0.0002802743686453231
+
+          IMU DATA: (-0.89, -0.39, -1.99)
+
+          Velocity X: -4.4
+  
+          Velocity Y: 1.23
+
+          IMU Orientation: (11.0, 7.1875, -17.75)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.94, -0.15, -1.58)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (11.0, 7.1875, -17.75)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (0.19, 0.11, -2.03)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (11.0, 7.1875, -17.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.94, -0.48, -1.38)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (11.0, 7.1875, -17.75)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.15, 0.43, -1.22)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (10.0625, 7.6875, -17.5625)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.61, -0.49, -0.64)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (10.0625, 7.6875, -17.5625)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-1.53, -1.38, 0.0)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (10.0625, 7.6875, -17.5625)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.75, -0.6600000000000001, 0.34)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (10.0625, 7.6875, -17.5625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.63, -1.06, 0.45)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (9.375, 6.6875, -17.875)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.26, -0.9800000000000001, 0.37)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (9.375, 6.6875, -17.875)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-1.05, -0.17, -0.54)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (5.5, 9.0625, -19.0)
+
+          IMU UPDATE TIME: 38
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.86, -0.22, -0.6800000000000001)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (5.375, 9.875, -19.0)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.9, -0.49, -0.85)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (5.375, 9.875, -19.0)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.8699999999999999, -0.6600000000000001, -1.06)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (5.375, 9.875, -19.0)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.85, -0.67, -1.18)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (5.375, 9.875, -19.0)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.7800000000000001, -0.75, -1.23)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.6875, 10.75, -18.6875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.8300000000000001, -0.6800000000000001, -1.2)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.6875, 10.75, -18.6875)
+
+          IMU UPDATE TIME: 11
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.63, -0.69, -1.18)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.6875, 10.75, -18.6875)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.63, -0.69, -1.18)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.6875, 10.75, -18.6875)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.6, -0.7800000000000001, -1.09)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.0, 10.375, -19.5625)
+
+          IMU UPDATE TIME: 6
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.5700000000000001, -0.73, -1.14)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.0, 10.375, -19.5625)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.3, -0.67, -1.31)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.0, 10.375, -19.5625)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.23, -0.69, -1.3)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.0, 10.375, -19.5625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.26, -0.7199999999999999, -1.3)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.375, 11.25, -20.0625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.23, -0.73, -1.26)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.375, 11.25, -20.0625)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.19, -0.7000000000000001, -1.1)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.375, 11.25, -20.0625)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.25, -0.7000000000000001, -0.96)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.375, 11.25, -20.0625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.36, -0.74, -0.8800000000000001)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.0, 11.0, -18.75)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.28, -0.62, -0.84)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.0, 11.0, -18.75)
+
+          IMU UPDATE TIME: 9
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.3, -0.5300000000000001, -0.74)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.0, 11.0, -18.75)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.37, -0.5600000000000001, -0.65)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (4.0, 11.0, -18.75)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.4100000000000001, -0.4600000000000001, -0.47)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (3.6875, 10.5625, -19.5625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.43, -0.44, -0.4)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (3.6875, 10.5625, -19.5625)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.5, -0.3, -0.19)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (3.6875, 10.5625, -19.5625)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.61, -0.32, -0.09)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (3.6875, 10.5625, -19.5625)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.67, -0.4100000000000001, -0.03)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (3.6875, 10.25, -19.1875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.76, -0.4100000000000001, 0.02)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (3.6875, 10.25, -19.1875)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.8100000000000001, -0.29, 0.06)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (3.6875, 10.25, -19.1875)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-0.8100000000000001, -0.2, 0.03)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (3.6875, 10.25, -19.1875)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-1.1, -1.03, 0.16)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (5.75, 11.0, -19.0625)
+
+          IMU UPDATE TIME: 7
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-1.25, -1.09, -0.84)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (5.75, 11.0, -19.0625)
+
+          IMU UPDATE TIME: 8
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-1.21, -0.7800000000000001, -0.67)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (5.75, 11.0, -19.0625)
+
+          IMU UPDATE TIME: 10
+
+          
+
+          IMU UPDATE
+
+          Latitude: -0.0001740036705339513
+
+          Longitude: 0.0002899761737138374
+
+          IMU DATA: (-1.0, -0.63, -0.02)
+
+          Velocity X: -5.340000000000001
+  
+          Velocity Y: 1.080000000000001
+
+          IMU Orientation: (5.75, 11.0, -19.0625)
+
+          IMU UPDATE TIME: 8
+
+          
+

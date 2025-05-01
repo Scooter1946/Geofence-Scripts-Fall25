@@ -275,7 +275,6 @@ if __name__ == '__main__':
 
     i2c = busio.I2C(board.GP15, board.GP14, frequency=400000)       # Initializes I2C for the IMU
     sensor = adafruit_bno055.BNO055_I2C(i2c)                        # Initializes IMU
-
     
     
     last_val = 0xFFFF

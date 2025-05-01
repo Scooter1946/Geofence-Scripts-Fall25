@@ -18,10 +18,12 @@ To Test:
 9. Close out Thonny once you see "listening..." printed, otherwise the port will be busy and data won't transfer.
 10. Next run the computer-end-code on a different IDE than Thonny (Visual Studio, IDLE, etc).
 11. Should print "Connection Confirmed" in the terminal as well as any other print statements if successful. Our code will also log any data in a timestamped text file in the same folder as the computer-end-code on your computer.
+12. To split the text file into csv's you can run the extractData.py file and change the filename in the first line to the file you want to split.
+
 
 Troubleshooting:
 "Busy Port: Try closing Raspberry Pi IDE(Thonny)", then that means something is interupting the port the Pi is connected to. This would be caused if you kept Thonny open while running the computer end code. You could also have other serial monitors or serial data printers such as the one in the Arduino IDE that is preventing you from transferring data. As mentioned in step 5, you could also be using the "serial" library, rather than the "pyserial" library. Make sure you delete serial libary if you have that installed. You could also have the wrong COM port selected in the computer end code as discussed in step 7.
 
-"alueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire" comes from the impu_update.py code. It is a ValueError, and the most likely culprits are being somewhere where the GPS can't get satellite data, such as too close to a building or inside. It could also indicate a problem with one of the connections, most likely the GPS connection. Make sure there are no cut or disconnected wires and the GPS antenna is firmly connected to the GPS module on the geofence. It could also be that the GPS needs a few seconds to connect to satellites when first turned on (usually five seconds at worst).
+"ValueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire" comes from the impu_update.py code. It is a ValueError, and the most likely culprits are being somewhere where the GPS can't get satellite data, such as too close to a building or inside. It could also indicate a problem with one of the connections, most likely the GPS connection. Make sure there are no cut or disconnected wires and the GPS antenna is firmly connected to the GPS module on the geofence. It could also be that the GPS needs a few seconds to connect to satellites when first turned on (usually five seconds at worst).
 
-Contact jerome1@purdue.edu or anfowler2001@gmail.com for any questions
+Contact raghav21@purdue.edu for any questions

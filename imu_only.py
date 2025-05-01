@@ -93,6 +93,7 @@ if __name__ == '__main__':
     latitude_avg,longitude_avg = 0,0
     i2c = busio.I2C(board.GP15, board.GP14, frequency=400000)       # Initializes I2C for the IMU
     sensor = adafruit_bno055.BNO055_I2C(i2c)                        # Initializes IMU
+    sensor.mode = adafruit_bno055.COMPASS_MODE
     imu_start_time = time.ticks_ms()
     velocity_x = 0
     velocity_y = 0
@@ -105,6 +106,7 @@ if __name__ == '__main__':
           IMU DATA: {sensor.linear_acceleration}\n
           Velocity X: {velocity_x}\n  
           Velocity Y: {velocity_y}\n
+          IMU Orientation: {sensor.euler}\n
           IMU UPDATE TIME: {time.ticks_ms()-imu_start_time}\n
           ''')
         imu_start_time = time.ticks_ms()
