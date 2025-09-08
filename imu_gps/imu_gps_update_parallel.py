@@ -3,12 +3,11 @@ import busio
 import board
 import adafruit_bno055
 import supervisor
-
 import math
-
 import machine
 import select
 import sys
+import kalman_filter
 
 class Point:
     def __init__(self, x, y):
@@ -304,7 +303,7 @@ if __name__ == '__main__':
     '''
     
     # CHANGE IMU SETTINGS HERE
-    imu_update_points = 10 # This value can be further optimized. If set to zero, there will be no IMU points (only GPS points). 
+    imu_update_points = 10 # This value can be further optimized. If set to zero, there will be no IMU points (only GPS points).
     imu_time_interval = 0.1 # This value can be further optimized. See IMU BNO055 documentation for minimum refresh rate.
     
     #Initalize the GPS position and time trackers
