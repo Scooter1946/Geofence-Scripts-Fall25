@@ -2,15 +2,10 @@ import time
 import busio
 import board
 import adafruit_bno055
-import supervisor
-
 import math
-
-import machine
 import select
 import sys
 import kalman_filter
-
 import os
 
 
@@ -20,10 +15,31 @@ class Point:
         self.y = y
 
 
+def latlon_to_local_meters(lat, lon, lat0, lon0):
+    EARTH_R = 6378137.0
+    DEG_TO_RAD = math.pi / 180.0
+    METERS_PER_DEG_LAT = EARTH_R * DEG_TO_RAD  # ~111319.5
+    # returns (x_north_meters, y_east_meters)
+    lat_rad = math.radians(lat)
+    lat0_rad = math.radians(lat0)
+    dx = (lat - lat0) * METERS_PER_DEG_LAT  # north (meters)
+    dy = (lon - lon0) * METERS_PER_DEG_LAT * math.cos(lat0_rad)  # east (meters)
+    return dx, dy
+
+
+def local_meters_to_latlon(x_m, y_m, lat0, lon0):
+    EARTH_R = 6378137.0
+    DEG_TO_RAD = math.pi / 180.0
+    METERS_PER_DEG_LAT = EARTH_R * DEG_TO_RAD  # ~111319.5
+    lat = lat0 + (x_m / METERS_PER_DEG_LAT)
+    lon = lon0 + (y_m / (METERS_PER_DEG_LAT * math.cos(math.radians(lat0))))
+    return lat, lon
+
+
 def get_latitude(str_array, index):
     latDeg = float(str_array[index][0: 2])
-    latMin = float(str_array[index][2: 10]) / 60
-    latitude = (float(latDeg) + float(latMin))
+    latMin = float(str_array[index][2:])
+    latitude = latDeg + latMin / 60.0
     if str_array[index + 1] == "S":
         latitude = -latitude
     return '%f' % latitude
@@ -31,10 +47,10 @@ def get_latitude(str_array, index):
 
 # Gets Longitude
 def get_longitude(str_array, index2):
-    longDeg = float(str_array[index2][1: 3])
-    longMin = float(str_array[index2][3: 11]) / 60
-    longitude = (float(longDeg) + float(longMin))
-    if str_array[index2 + 1] == "E":
+    longDeg = float(str_array[index2][0: 3])
+    longMin = float(str_array[index2][3:])
+    longitude = longDeg + longMin / 60.0
+    if str_array[index2 + 1] == "W":
         longitude = -longitude
     return '%f' % longitude
 
@@ -210,7 +226,7 @@ def get_gps_location(gps_uart):
             str_array = str_array.split(",")
             # print(str_array)                            # Prints GPS Output
 
-            if str_array[0] is '$GPGLL':
+            if str_array[0] == '$GPGLL':
                 # print("in GPGLL")
                 # lcd_uart.write("in GNGLL")
                 latitude_LL = get_latitude(str_array, 1)
@@ -218,7 +234,7 @@ def get_gps_location(gps_uart):
                 # print("in GPGLL2: Latitude: ", latitude + "  Longitude: ", longitude)
                 # lcd_uart.write("in GNGLL2")
 
-            elif str_array[0] is '$GPGGA':
+            elif str_array[0] == '$GPGGA':
                 # print("in GPGGA")
                 # lcd_uart.write("in GNGGA")
                 latitude_GA = get_latitude(str_array, 2)
@@ -240,7 +256,7 @@ def get_gps_location(gps_uart):
     # print("LatIN: " + str(latitude_avg) + " LongIN: " + str(longitude_avg))
     return latitude_avg, longitude_avg
 
-
+'''
 def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y):
     earth_radius = 6378137.0  # Earth's radius in meters
 
@@ -271,7 +287,7 @@ def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y):
     # Update latitude and longitude
     newlatAvg = latAvg + latitude_change
     newlongAvg = longAvg + longitude_change
-
+    '''
     # endTime = time.ticks_ms()
     # print(f'''
     #       IMU UPDATE\n
@@ -279,16 +295,16 @@ def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y):
     #       IMU DATA: {sensor.linear_acceleration}\n
     #       ''')
     # print("IMU Refresh Rate: ", float(endTime - startTime))
-
+'''
     return newlatAvg, newlongAvg, velocity_x, velocity_y
-
+'''
 
 # example main function that implements EKF (does not include
 if __name__ == '__main__':
     # imports polygons
     outerPolygon, innerPolygon = dataReceive()
     # initializes devices
-    i2c = busio.I2C(board.GP15, board.GP14, frequency=100)  # Initializes I2C for the IMU
+    i2c = busio.I2C(board.GP15, board.GP14, frequency=400000)  # Initializes I2C for the IMU
     sensor = adafruit_bno055.BNO055_I2C(i2c)  # Initializes IMU
 
     last_val = 0xFFFF
@@ -335,33 +351,59 @@ if __name__ == '__main__':
     latDivisor = 1
     lonDivisor = 1
 
+    lat0, lon0 = latitude_avg, longitude_avg
+
+    # initialize heading (degrees -> radians). fallback to 0 if sensor.euler is None.
+    heading_deg = sensor.euler[0] if hasattr(sensor, 'euler') and sensor.euler is not None else 0.0
+    theta0 = math.radians(heading_deg)
+
+
+    # accel bias estimate
+    def estimate_accel_bias(sensor, samples=200, delay_s=0.02):
+        sx = sy = 0.0
+        count = 0
+        for _ in range(samples):
+            la = sensor.linear_acceleration
+            if la is None:
+                continue
+            sx += la[0];
+            sy += la[1];
+            count += 1
+            time.sleep(delay_s)
+        return (sx / count, sy / count) if count > 0 else (0.0, 0.0)
+    # acceleration bias/drift
+    ax_bias, ay_bias = estimate_accel_bias(sensor)
+    print("accel bias:", ax_bias, ay_bias)
+
     # Initial state: [lat, lon, theta, vx, vy]
-    x0 = [latitude_avg, longitude_avg, 0, 0, 0]
+    x0 = [0, 0, theta0, 0, 0]
 
     # Initial covariance
-    P0 = [[1e-4, 0, 0, 0, 0],
-          [0, 1e-4, 0, 0, 0],
+    P0 = [[1.0, 0, 0, 0, 0],
+          [0, 1.0, 0, 0, 0],
           [0, 0, 1e-2, 0, 0],
-          [0, 0, 0, 1e-2, 0],
-          [0, 0, 0, 0, 1e-2]]
+          [0, 0, 0, 1.0, 0],
+          [0, 0, 0, 0, 1.0]]
     print(os.listdir())
 
     ekf = kalman_filter.ExtendedKalmanFilter(x0, P0)
 
+    # Process noise (IMU) - uncertainty in how state evolves between measurements
+    # Small values for position → trust your IMU acceleration slightly
     # Larger values for velocity → allow for some drift.
     # Heading (theta) has intermediate noise → account for small gyro errors.
-    R = [[1e-4, 0, 0, 0, 0],
-         [0, 1e-4, 0, 0, 0],
+    R = [[0.1, 0, 0, 0, 0],
+         [0, 0.1, 0, 0, 0],
          [0, 0, 1e-3, 0, 0],
-         [0, 0, 0, 1e-2, 0],
-         [0, 0, 0, 0, 1e-2]]
+         [0, 0, 0, 0.5, 0],
+         [0, 0, 0, 0, 0.5]]
 
     # GPS measurement noise - uncertainty in the GPS reading
     # Smaller values → GPS is very accurate, EKF leans more on GPS updates.
     # Larger values → GPS is noisy and EKF trusts IMU prediction more.
     # NOTE: in this case, since the kart will be used on a mostly flat track/parking lot, use smaller values
-    Q = [[5e-5, 0],
-         [0, 5e-5]]
+    Q = [[0.1, 0],
+         [0, 0.1]]
 
     # Main loop
     while True:
@@ -403,19 +445,22 @@ GPS UPDATE TIME: {time.ticks_ms() - gps_start_time}\n
         dt = (time.ticks_ms() - imu_start_time) / 1000
         imu_start_time = time.ticks_ms()
 
-        ax, ay = sensor.linear_acceleration[0], sensor.linear_acceleration[1]
-        omega = sensor.gyro[2] if hasattr(sensor, 'gyro') else 0
+        ax_raw, ay_raw = sensor.linear_acceleration[0], sensor.linear_acceleration[1]
+        ax = ax_raw - ax_bias
+        ay = ay_raw - ay_bias
 
         # --- EKF Prediction (IMU) ---
+        omega = sensor.gyro[2] if hasattr(sensor, 'gyro') else 0.0
         ekf.propagate(u=(ax, ay, omega), dt=dt, R=R)
 
         # --- EKF Update (GPS) ---
         if gps_available:
-            ekf.update(z=[latitude_avg, longitude_avg], Q=Q)
+            z_x, z_y = latlon_to_local_meters(latitude_avg, longitude_avg, lat0, lon0)
+            ekf.update(z=[z_x, z_y], Q=Q)
 
         # --- Get filtered state ---
-        lat_f, lon_f, theta, vx, vy = ekf.state()
-
+        lat_m, lon_m, theta, vx, vy = ekf.state()
+        lat_f, lon_f = local_meters_to_latlon(lat_m, lon_m, lat0, lon0)
         # --- Print / debug ---
         print(f'''
 FILTERED UPDATE
