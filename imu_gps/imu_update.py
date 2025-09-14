@@ -274,6 +274,12 @@ def dataReceive():
     # Register sys.stdin (standard input) for monitoring read events with priority 1
     poll_obj.register(sys.stdin,1)
     print("listening...")
+    with open("test.csv", 'r') as f:
+        lines = f.readlines()
+        lines = [item.replace("\n", "") for item in lines]
+        value = ",".join(lines)
+        print(value)
+    '''
     while True:
         if poll_obj.poll(0):
             value = input().strip()
@@ -282,11 +288,13 @@ def dataReceive():
                 continue
             print("Raw Input: {}".format(value))
             break
+            
+    '''
 
     # Temporary Geofence For testing purposes - Use computer-end-code.py for real Geofence Values
     #value = "OUTER, 40.39123253146508, -86.82833099365233, 40.365601883498044, -86.97458648681639, 40.42417189314546, -87.00067901611327, 40.468065962237894, -86.85236358642577, 40.428353515662465, -86.79743194580077, INNER"
 
-    coordinateList = value.split(", ")
+    coordinateList = value.split(",")
     innerBegin = coordinateList.index("INNER")
 
     outerList = [coordinateList[idx] for idx in range(1, innerBegin)]

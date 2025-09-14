@@ -261,6 +261,12 @@ if __name__ == '__main__':
                     latitude_avg = (float(latitude_LL) + float(latitude_GA)) / latDivisor
                     longitude_avg = (float(longitude_LL) + float(longitude_GA)) / lonDivisor
                     gps_available = True
+                    print(f'''
+                            GPS UPDATE\n
+                            Latitude: {latitude_avg:.10f}   Longitude: {longitude_avg:.10f}\n
+                            Raw Data: {str_array}\n
+                            GPS UPDATE TIME: {time.ticks_ms() - gps_start_time}\n
+                            ''')
 
             except (ValueError, IndexError):
                 lcd_uart.write(b"Error No Signal                 ")
