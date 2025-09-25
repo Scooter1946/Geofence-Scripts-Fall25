@@ -7,6 +7,7 @@ import math
 import machine
 import select
 import sys
+import datetime
 
 '''
 Set of (x,y) coordinates
@@ -236,7 +237,7 @@ def get_gps_location(gps_uart):
     return latitude_avg, longitude_avg
 
 
-def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y):
+def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y, updateFile):
     earth_radius = 6378137.0  # Earth's equitorial radius in meters
 
     imu_acceleration_x, imu_acceleration_y, imu_acceleration_z = sensor.linear_acceleration
@@ -268,12 +269,13 @@ def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y):
     newlatAvg = latAvg + latitude_change
     newlongAvg = longAvg + longitude_change
 
-    # endTime = time.ticks_ms()
-    # print(f'''
-    #       IMU UPDATE\n
-    #       Latitude: {newlatAvg:.10f}   Longitude: {newlongAvg:.10f}\n
-    #       IMU DATA: {sensor.linear_acceleration}\n
-    #       ''')
+    #logging into text file 
+    #TODO: test
+    with open(updateFile, "a") as file:
+        file.write("IMU UPDATE\n\n")
+        file.write("Latitude: {newlatAvg:.10f}   Longitude: {newlongAvg:.10f}\n\n")
+        file.write("IMU DATA: {sensor.linear_acceleration}\n\n")
+
     #print("IMU Refresh Rate: ", float(endTime - startTime))
     print("IMU update")
     print(f"new latitude: {newlatAvg} new longitude: {newlongAvg} velx(m/s): {velocity_x} vely(m/s): {velocity_y}")
@@ -282,6 +284,8 @@ def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y):
     return newlatAvg, newlongAvg, velocity_x, velocity_y
 
 if __name__ == '__main__':
+
+    loggingFileName = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
     outerPolygon, innerPolygon = dataReceive()
 
@@ -327,7 +331,7 @@ if __name__ == '__main__':
     gps_start_time, imu_start_time = time.ticks_ms(), time.ticks_ms()
     
     relay_on = machine.Pin(13, mode=Pin.OUT)
-    relay_on.value(1)
+    relay_on.value(0)
     #Main Loop
     while True:
         latitude_LL = longitude_LL = latitude_GA = longitude_GA = 0
@@ -365,18 +369,26 @@ if __name__ == '__main__':
                 
                 
                     print(f'''
-      GPS UPDATE\n
-      Latitude: {latitude_avg:.10f}   Longitude: {longitude_avg:.10f}\n
-      Raw Data: {str_array}\n
-      GPS UPDATE TIME: {time.ticks_ms()-gps_start_time}ms\n
-                          ''')
+        GPS UPDATE\n
+        Latitude: {latitude_avg:.10f}   Longitude: {longitude_avg:.10f}\n
+        Raw Data: {str_array}\n
+        GPS UPDATE TIME: {time.ticks_ms()-gps_start_time}ms\n
+                        ''')
+                    
+                    #logging into text file 
+                    #TODO: test
+                    with open(loggingFileName, "a") as file:
+                        file.write("GPS UPDATE\n\n")
+                        file.write(f"Latitude: {latitude_avg:.10f}   Longitude: {longitude_avg:.10f}\n\n")
+                        file.write(f"Raw Data: {str_array}\n\n")
+                        file.write(f"GPS UPDATE TIME: {time.ticks_ms()-gps_start_time}ms\n")
                     gps_start_time = time.ticks_ms()
             except (ValueError, IndexError):
                 lcd_uart.write(b"Error No Signal                 ")  # For 16x2 LCD
                 print("valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire")
         
         imu_start_time = time.ticks_ms()
-        latitude_avg, longitude_avg, velocity_x, velocity_y = imu_update(latitude_avg, longitude_avg, (time.ticks_ms()-imu_start_time)/1_000, velocity_x, velocity_y)
+        latitude_avg, longitude_avg, velocity_x, velocity_y = imu_update(latitude_avg, longitude_avg, (time.ticks_ms()-imu_start_time)/1_000, velocity_x, velocity_y, loggingFileName)
         update_time = time.ticks_ms() - imu_start_time
         print(f'''IMU update time: {update_time} ms \nIMU refresh rate: {1000 / update_time} Hz''')
 
@@ -387,6 +399,6 @@ if __name__ == '__main__':
         else:
             lcd_uart.write(b"OUT                             ")  # For 16x2 LCD
             print("\nKart is out of bounds\n")
-            relay_on.value(0)
+            relay_on.value(1)
             break
 
