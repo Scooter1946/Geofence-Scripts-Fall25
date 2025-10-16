@@ -7,7 +7,6 @@ import math
 import machine
 import select
 import sys
-import datetime
 
 '''
 Set of (x,y) coordinates
@@ -141,10 +140,11 @@ def initialize_gps():
     print(uart)
     return uart
 
+
 # Turns on the LCD
 def initialize_lcd(backlight_red, backlight_green, backlight_blue):
     #lcd_uart = UART(1, baudrate=9600, tx=Pin(4), rx=Pin(5))         # This line specifically should be changed to CircuitPython
-    lcd_uart = busio.UART(board.GP4, board.GP5, baudrate=9600)
+    lcd_uart = busio.UART(tx = board.GP4, rx = board.GP5, baudrate=9600)
     lcd_uart.write(b'|')  # write 5 bytes
     lcd_uart.write(b'\x18')  # write 5 bytes
     lcd_uart.write(b'\x08')  # contrast
@@ -236,7 +236,7 @@ def get_gps_location(gps_uart):
     return latitude_avg, longitude_avg
 
 
-def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y, updateFile):
+def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y):
     earth_radius = 6378137.0  # Earth's equitorial radius in meters
 
     imu_acceleration_x, imu_acceleration_y, imu_acceleration_z = sensor.linear_acceleration
@@ -270,11 +270,12 @@ def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y, updateFil
 
     #logging into text file 
     #TODO: test
+    '''
     with open(updateFile, "a") as file:
         file.write("IMU UPDATE\n\n")
         file.write("Latitude: {newlatAvg:.10f}   Longitude: {newlongAvg:.10f}\n\n")
         file.write("IMU DATA: {sensor.linear_acceleration}\n\n")
-
+    '''
     #print("IMU Refresh Rate: ", float(endTime - startTime))
     print("IMU update")
     print(f"new latitude: {newlatAvg} new longitude: {newlongAvg} velx(m/s): {velocity_x} vely(m/s): {velocity_y}")
@@ -284,14 +285,12 @@ def imu_update(latAvg, longAvg, time_interval, velocity_x, velocity_y, updateFil
 
 if __name__ == '__main__':
 
-    loggingFileName = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    # loggingFileName = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
     outerPolygon, innerPolygon = dataReceive()
 
     i2c = busio.I2C(board.GP15, board.GP14, frequency=1000)       # Initializes I2C for the IMU
     sensor = adafruit_bno055.BNO055_I2C(i2c)                        # Initializes IMU
-    
-    last_val = 0xFFFF
 
     gps_uart = initialize_gps()                                   # Initializes GPS
     lcd_uart = initialize_lcd(backlight_red=255, backlight_green=1, backlight_blue=255)
@@ -316,11 +315,11 @@ if __name__ == '__main__':
     (40.430835, 86.916097)
     ]
     '''
-    '''
-    # CHANGE IMU SETTINGS HERE (currently not in use)
+    
+    # CHANGE IMU SETTINGS HERE
     imu_update_points = 7 # This value can be further optimized. If set to zero, there will be no IMU points (only GPS points).
     imu_time_interval = 0.14 # This value can be further optimized. See IMU BNO055 documentation for minimum refresh rate.
-    '''
+    
     #Initalize the GPS position and time trackers
     velocity_x = 0
     velocity_y = 0
@@ -329,8 +328,8 @@ if __name__ == '__main__':
     latitude_avg,longitude_avg = get_gps_location(gps_uart)
     gps_start_time, imu_start_time = time.ticks_ms(), time.ticks_ms()
     
-    relay_on = machine.Pin(13, mode=Pin.OUT)
-    relay_on.value(1)
+    relay_on = machine.Pin(11, mode=machine.Pin.OUT)
+    relay_on.value(0)
     #Main Loop
     while True:
         latitude_LL = longitude_LL = latitude_GA = longitude_GA = 0
@@ -343,6 +342,7 @@ if __name__ == '__main__':
         else:
             try:
                 str_array = str_array.decode("utf-8").strip().split(",")      # Decodes GPS input
+                #print(str_array)                            # Prints GPS Output
                 if str_array[0] == '$GPGLL':
                     latitude_LL = get_latitude(str_array, 1)
                     longitude_LL = get_longitude(str_array, 3)
@@ -354,21 +354,17 @@ if __name__ == '__main__':
                     longitude_GA = get_longitude(str_array, 4)
                     #lcd_uart.write("in GNGGA")
                     #print("in GPGGA: Latitude: ", latitude  + "  Longitude: ", longitude)
-                '''
+                
                 if((latitude_LL or latitude_GA) and (longitude_LL or longitude_GA)):
-                    if latitude_LL and latitude_GA:
+                    if (latitude_LL and latitude_GA):
                         latDivisor = 2
-                    if longitude_LL and longitude_GA:
+                    
+                    if (longitude_LL and longitude_GA):
                         lonDivisor = 2
+                    
                     latitude_avg = (latitude_LL + latitude_GA) / latDivisor
                     longitude_avg = (longitude_LL + longitude_GA) / lonDivisor
-                '''
-                if (latitude_LL is not None or latitude_GA is not None) and (longitude_LL is not None or longitude_GA is not None):
-                    lat_values = [v for v in (latitude_LL, latitude_GA) if v is not None]
-                    lon_values = [v for v in (longitude_LL, longitude_GA) if v is not None]
-
-                    latitude_avg = sum(lat_values) / len(lat_values)
-                    longitude_avg = sum(lon_values) / len(lon_values)
+                
                 
                     print(f'''
         GPS UPDATE\n
@@ -379,18 +375,20 @@ if __name__ == '__main__':
                     
                     #logging into text file 
                     #TODO: test
+                    '''
                     with open(loggingFileName, "a") as file:
                         file.write("GPS UPDATE\n\n")
                         file.write(f"Latitude: {latitude_avg:.10f}   Longitude: {longitude_avg:.10f}\n\n")
                         file.write(f"Raw Data: {str_array}\n\n")
                         file.write(f"GPS UPDATE TIME: {time.ticks_ms()-gps_start_time}ms\n")
+                    '''
                     gps_start_time = time.ticks_ms()
             except (ValueError, IndexError):
                 lcd_uart.write(b"Error No Signal                 ")  # For 16x2 LCD
                 print("valueError: Likely no signal from being inside, no GPS antenna connected, or a broken wire")
         
         imu_start_time = time.ticks_ms()
-        latitude_avg, longitude_avg, velocity_x, velocity_y = imu_update(latitude_avg, longitude_avg, (time.ticks_ms()-imu_start_time)/1_000, velocity_x, velocity_y, loggingFileName)
+        latitude_avg, longitude_avg, velocity_x, velocity_y = imu_update(latitude_avg, longitude_avg, (time.ticks_ms()-imu_start_time)/1_000, velocity_x, velocity_y)
         update_time = time.ticks_ms() - imu_start_time
         print(f'''IMU update time: {update_time} ms \nIMU refresh rate: {1000 / update_time} Hz''')
 
@@ -401,5 +399,5 @@ if __name__ == '__main__':
         else:
             lcd_uart.write(b"OUT                             ")  # For 16x2 LCD
             print("\nKart is out of bounds\n")
-            relay_on.value(0)
+            relay_on.value(1)
             break
