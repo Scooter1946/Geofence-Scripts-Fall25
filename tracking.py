@@ -140,7 +140,6 @@ def initialize_gps():
     print(uart)
     return uart
 
-
 # Turns on the LCD
 def initialize_lcd(backlight_red, backlight_green, backlight_blue):
     #lcd_uart = UART(1, baudrate=9600, tx=Pin(4), rx=Pin(5))         # This line specifically should be changed to CircuitPython
@@ -313,11 +312,11 @@ if __name__ == '__main__':
     (40.430835, 86.916097)
     ]
     '''
-    
-    # CHANGE IMU SETTINGS HERE
+    '''
+    # CHANGE IMU SETTINGS HERE (currently not in use)
     imu_update_points = 7 # This value can be further optimized. If set to zero, there will be no IMU points (only GPS points).
     imu_time_interval = 0.14 # This value can be further optimized. See IMU BNO055 documentation for minimum refresh rate.
-    
+    '''
     #Initalize the GPS position and time trackers
     velocity_x = 0
     velocity_y = 0
@@ -325,9 +324,10 @@ if __name__ == '__main__':
     latitude_avg,longitude_avg = 0,0
     latitude_avg,longitude_avg = get_gps_location(gps_uart)
     gps_start_time, imu_start_time = time.ticks_ms(), time.ticks_ms()
-    
-    relay_on = machine.Pin(13, mode=Pin.OUT)
-    relay_on.value(1)
+    # relay signal
+    kart_in = machine.Pin(11, mode=machine.Pin.OUT)
+    kart_in.value(1)
+
     #Main Loop
     while True:
         latitude_LL = longitude_LL = latitude_GA = longitude_GA = 0
@@ -340,7 +340,6 @@ if __name__ == '__main__':
         else:
             try:
                 str_array = str_array.decode("utf-8").strip().split(",")      # Decodes GPS input
-                #print(str_array)                            # Prints GPS Output
                 if str_array[0] == '$GPGLL':
                     latitude_LL = get_latitude(str_array, 1)
                     longitude_LL = get_longitude(str_array, 3)
@@ -352,17 +351,21 @@ if __name__ == '__main__':
                     longitude_GA = get_longitude(str_array, 4)
                     #lcd_uart.write("in GNGGA")
                     #print("in GPGGA: Latitude: ", latitude  + "  Longitude: ", longitude)
-                
+                '''
                 if((latitude_LL or latitude_GA) and (longitude_LL or longitude_GA)):
-                    if (latitude_LL and latitude_GA):
+                    if latitude_LL and latitude_GA:
                         latDivisor = 2
-                    
-                    if (longitude_LL and longitude_GA):
+                    if longitude_LL and longitude_GA:
                         lonDivisor = 2
-                    
                     latitude_avg = (latitude_LL + latitude_GA) / latDivisor
                     longitude_avg = (longitude_LL + longitude_GA) / lonDivisor
-                
+                '''
+                if (latitude_LL is not None or latitude_GA is not None) and (longitude_LL is not None or longitude_GA is not None):
+                    lat_values = [v for v in (latitude_LL, latitude_GA) if v is not None]
+                    lon_values = [v for v in (longitude_LL, longitude_GA) if v is not None]
+
+                    latitude_avg = sum(lat_values) / len(lat_values)
+                    longitude_avg = sum(lon_values) / len(lon_values)
                 
                     print(f'''
       GPS UPDATE\n
@@ -387,6 +390,6 @@ if __name__ == '__main__':
         else:
             lcd_uart.write(b"OUT                             ")  # For 16x2 LCD
             print("\nKart is out of bounds\n")
-            relay_on.value(0)
+            print("Stopping kart\n")
+            kart_in.value(0)
             break
-
