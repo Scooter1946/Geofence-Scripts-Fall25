@@ -1,7 +1,7 @@
 import numpy as np
 lines = []
 
-filename = "datalog2025-04-17_11-20-15"
+filename = "/Users/ishaansingh/Documents/Geofence-Scripts-Fall25-1/data_analysis/datalog2025-03-13_11-49-49"
 
 with open(filename+".txt") as file:
     lines = file.readlines()
